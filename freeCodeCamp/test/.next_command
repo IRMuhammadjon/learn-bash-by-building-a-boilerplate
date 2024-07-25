@@ -188,3 +188,4 @@ find name client
 find -name client
 cd client
 mkdir assets
+cd assets
