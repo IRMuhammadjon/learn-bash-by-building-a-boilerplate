@@ -260,3 +260,9 @@ find client/assets/fonts
 touch client/assets/fonts/lato-bold.ttf
 touch client/assets/fonts/lato-light.ttf
 find
+rm fonts/roboto.woff
+rm fonts/lato.ttf
+rm fonts/menlo.otf
+rmdir fonts
+rm -dir
+rm --help
