@@ -156,3 +156,4 @@ mkdir client
 mkdir client/srx
 mkdir client/src
 mv index.html client/src
+find
