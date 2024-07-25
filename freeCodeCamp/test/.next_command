@@ -151,3 +151,4 @@ cd ..
 mv lato.ttf fonts
 __vsc_prompt_cmd_original
 mv menlo.otf fonts
+find
