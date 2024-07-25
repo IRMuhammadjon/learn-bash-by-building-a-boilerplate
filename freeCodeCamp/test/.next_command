@@ -237,3 +237,4 @@ find
 rmdir website/images/background.jpg
 rm /images/background.jpg
 rm images/background.jpg
+rmdir images
