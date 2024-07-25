@@ -157,3 +157,18 @@ mkdir client/srx
 mkdir client/src
 mv index.html client/src
 find
+mv index.js src
+mv index.js client/src
+ls --color=auto
+cd .src
+cd src
+ls --color=auto
+cd client
+ls --color=auto
+cd src
+ls --color=auto
+cd ../..
+ls --color=auto
+find
+touch index.js
+mv index.js client/src
