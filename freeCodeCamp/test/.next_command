@@ -268,3 +268,4 @@ rm -dir
 rm --help
 mkdir fonts
 rm -r fonts
+ls --color=auto
