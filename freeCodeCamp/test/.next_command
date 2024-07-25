@@ -64,3 +64,5 @@ __vsc_prompt_cmd_original
 clear
 __vsc_prompt_cmd_original
 ls --color=auto
+src
+cd src
