@@ -51,3 +51,4 @@ more nore_modules
 more node_modules
 cd node_modules
 ls --color=auto
+ls --color=auto -l
