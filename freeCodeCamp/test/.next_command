@@ -29,3 +29,4 @@ echo hellp terminal
 echo hello terminal
 pwd
 ls --color=auto
+cd freeCodeCamp
