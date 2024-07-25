@@ -266,3 +266,5 @@ rm fonts/menlo.otf
 rmdir fonts
 rm -dir
 rm --help
+mkdir fonts
+rm -r fonts
