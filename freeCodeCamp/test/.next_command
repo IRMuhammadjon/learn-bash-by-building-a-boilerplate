@@ -153,3 +153,5 @@ __vsc_prompt_cmd_original
 mv menlo.otf fonts
 find
 mkdir client
+mkdir client/srx
+mkdir client/src
