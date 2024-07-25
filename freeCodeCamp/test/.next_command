@@ -73,3 +73,5 @@ more index.js
 cd ..
 pwd
 cd ..
+__vsc_prompt_cmd_original
+cd ../..
