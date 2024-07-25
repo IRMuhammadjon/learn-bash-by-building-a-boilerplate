@@ -124,3 +124,5 @@ remove background.jpg
 rm background.jpg
 ls --color=auto
 cp header.png images
+cp footer images
+cp footer.jpeg images
