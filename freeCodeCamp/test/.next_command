@@ -32,3 +32,4 @@ ls --color=auto
 cd freeCodeCamp
 pew
 pwd
+ls --color=auto
