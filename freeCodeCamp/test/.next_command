@@ -238,3 +238,5 @@ rmdir website/images/background.jpg
 rm /images/background.jpg
 rm images/background.jpg
 rmdir images
+find
+ls --color=auto
