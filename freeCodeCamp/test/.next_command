@@ -178,3 +178,4 @@ find client
 find -help
 find -H
 find --help
+find -name index.html
