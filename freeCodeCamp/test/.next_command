@@ -33,3 +33,4 @@ cd freeCodeCamp
 pew
 pwd
 ls --color=auto
+cd test
