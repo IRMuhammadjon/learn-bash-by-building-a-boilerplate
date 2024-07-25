@@ -47,3 +47,6 @@ __vsc_prompt_cmd_original
 more package.json
 clear
 ls --color=auto
+more nore_modules
+more node_modules
+cd node_modules
