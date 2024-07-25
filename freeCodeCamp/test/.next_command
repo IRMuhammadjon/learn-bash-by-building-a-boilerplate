@@ -123,3 +123,4 @@ ls --color=auto
 remove background.jpg
 rm background.jpg
 ls --color=auto
+cp header.png images
