@@ -206,3 +206,4 @@ find -name images
 mv header.png client/assets/images
 find header.png
 find -name header.png
+find -name footer.jpeg
