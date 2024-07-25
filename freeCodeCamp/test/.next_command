@@ -42,3 +42,6 @@ cd ..
 pwd
 __vsc_prompt_cmd_original
 ls --color=auto
+more test
+__vsc_prompt_cmd_original
+more package.json
