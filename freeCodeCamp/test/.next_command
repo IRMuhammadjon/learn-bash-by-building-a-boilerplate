@@ -117,3 +117,4 @@ mkdir images
 ls --color=auto
 cp background.jpg images
 cd images
+ls --color=auto
